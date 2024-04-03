@@ -1,11 +1,11 @@
 ***Steps taken to start this project***
 
 1.create a project folder
-2. Installed node in the root --> https://nodejs.org/en/download
-3. Add typescript --> npm install -g typescript ts-node
-4. add npm
-5. Ensure I have VS code
-6. add Axios --> npm install axios@0.27.2
+2. Ensure I have VS code installed
+3. Installed node in the root --> https://nodejs.org/en/download  ( npm install node)
+4. Add typescript --> npm install -g typescript ts-node
+5. add npm --> npm init -y to create package.json file
+6. add Axios --> npm install axios@0.27.2 or npm install axios
 What is Axios? axios is used to make a network request.
 
 API
