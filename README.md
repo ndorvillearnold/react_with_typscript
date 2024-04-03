@@ -1,0 +1,31 @@
+***Steps taken to start this project***
+
+1.create a project folder
+2. Installed node in the root --> https://nodejs.org/en/download
+3. Add typescript --> npm install -g typescript ts-node
+4. add npm
+5. Ensure I have VS code
+6. add Axios --> npm install axios@0.27.2
+What is Axios? axios is used to make a network request.
+
+API
+6. Fake JSON API being used:
+  https://jsonplaceholder.typicode.com/
+  1. Go down to the resources section and click on the /todos link
+  2. We will make a network request to this URL with endpoint being todos -- >  [https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos/1)
+  3. We added 1 at the end to get the first one. (FYI)
+  4. 
+
+     
+
+
+
+***  What am I building?  ***
+I am building a small application that will make a network request to an outside api, fetch data, 
+then we are going to print the data inside our terminal'
+
+This is just to see why typescript is used and catch bugs with it. 
+
+
+Things I learned:
+![image](https://github.com/ndorvillearnold/react_with_typscript/assets/43937188/2ff344aa-a60f-49f7-954f-9239c3870e0f)
