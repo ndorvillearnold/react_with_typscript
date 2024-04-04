@@ -18,17 +18,30 @@ https://jsonplaceholder.typicode.com/
 3. We added 1 at the end to get the first one. (FYI)
 4. to get all the fake data you can change the url to https://jsonplaceholder.typicode.com/todos
 
-RUN FILE TO VIEW API:
-**_ node index.js _**
 
-RUN TO COMPILE typescript file
-\*\*\* tsc index.ts
-
-**_ What am I building? _**
+*** What am I building? ***
 I am building a small application that will make a network request to an outside api, fetch data,
 then we are going to print the data inside our terminal'
 
 This is just to see why typescript is used and catch bugs with it.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+RUN FILE TO VIEW API:
+*** node index.js ***
+
+RUN TO COMPILE typescript file
+*** tsc index.ts ***
+
+PLEASE NOTE : Running compiling file then js file is not ideal. so you can run code below to run both commands at once
+
+"ts-node  typescript file name"  in this cases it would be  
+
+*** ts-node index.ts ***
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 **_ API results _**
 
