@@ -37,4 +37,5 @@ This is just to see why typescript is used and catch bugs with it.
 
 ![image](https://github.com/ndorvillearnold/react_with_typscript/assets/43937188/2ff344aa-a60f-49f7-954f-9239c3870e0f)
 
-
+*** Obstacles I faced***
+-I could not run any command and kept getting an error that a port was closed. I had to then research how to open the port to make it work. 
