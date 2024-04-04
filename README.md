@@ -58,8 +58,12 @@ Things I learned
 
 I also learned 
 
-2. syntax and features
-3. Design patterns
+2. basic syntax and features
+3.functioning typing and annotations
+4. Design patterns
+5. arrays
+6. modules systems
+7. classes and refressioer on oop
 
 <br>
 Obstacles I faced
