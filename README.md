@@ -23,35 +23,40 @@ API
 <br>
 
 What am I building?
+<br>
 I am building a small application that will make a network request to an outside api, fetch data,
 then we are going to print the data inside our terminal'
 
 This is just to see why typescript is used and catch bugs with it.
+<br>
 
 ---
 
 <br>
 RUN FILE TO VIEW API:
  node index.js
-
+<br>
 RUN TO COMPILE typescript file
 tsc index.ts
-
+<br>
 PLEASE NOTE : Running compiling file then js file is not ideal. so you can run code below to run both commands at once
-
+<br>
 "ts-node typescript file name" in this cases it would be
 
-**_ ts-node index.ts _**
+ts-node index.ts
+<br>
 
 ---
 
 API results
-
+<br>
 ![image](https://github.com/ndorvillearnold/react_with_typscript/assets/43937188/02b01cd5-ae7d-40d7-bb92-b9d54c10a750)
-
+<br>
 Things I learned
-
+<br>
 ![image](https://github.com/ndorvillearnold/react_with_typscript/assets/43937188/2ff344aa-a60f-49f7-954f-9239c3870e0f)
-
+<br>
 Obstacles I faced
+<br>
 -I could not run any command and kept getting an error that a port was closed. I had to then research how to open the port to make it work.
+<br>
