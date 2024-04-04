@@ -55,6 +55,12 @@ API results
 Things I learned
 <br>
 ![image](https://github.com/ndorvillearnold/react_with_typscript/assets/43937188/2ff344aa-a60f-49f7-954f-9239c3870e0f)
+
+I also learned 
+
+2. syntax and features
+3. Design patterns
+
 <br>
 Obstacles I faced
 <br>
