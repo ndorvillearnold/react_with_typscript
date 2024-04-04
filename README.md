@@ -17,7 +17,7 @@ API
   3. We added 1 at the end to get the first one. (FYI)
   4. 
 
-  RUN FILE TO VIEW API:
+RUN FILE TO VIEW API:
   *** node index.js ***
 
 
