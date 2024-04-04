@@ -1,13 +1,13 @@
 ***Steps taken to start this project***
 
-1.create a project folder
+1. Create a project folder
 2. Ensure I have VS code installed
 3. Installed node in the root --> https://nodejs.org/en/download  ( npm install node)
 4. Add typescript --> npm install -g typescript ts-node
-5. add npm --> npm init -y to create package.json file
-6. add Axios --> npm install axios@0.27.2 or npm install axios
+5. Add npm --> npm init -y to create package.json file
+6. Add Axios --> npm install axios@0.27.2 or npm install axios
     What is Axios? axios is used to make a network request.
-7.on command line type  npx tsc --init"  to add a ts config file
+7. On the command line type  npx tsc --init"  to add a ts config file
 
 API
 8. Fake JSON API being used:
