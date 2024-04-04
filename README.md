@@ -18,8 +18,7 @@ API
   4. 
 
   RUN FILE TO VIEW API:
-
-  node index.js
+  *** node index.js ***
 
 
 
