@@ -31,7 +31,9 @@ This is just to see why typescript is used and catch bugs with it.
 API results
 ![image](https://github.com/ndorvillearnold/react_with_typscript/assets/43937188/02b01cd5-ae7d-40d7-bb92-b9d54c10a750)
 
+
 Things I learned:
+
 ![image](https://github.com/ndorvillearnold/react_with_typscript/assets/43937188/2ff344aa-a60f-49f7-954f-9239c3870e0f)
 
 
