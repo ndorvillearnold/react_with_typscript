@@ -6,17 +6,20 @@
 4. Add typescript --> npm install -g typescript ts-node
 5. add npm --> npm init -y to create package.json file
 6. add Axios --> npm install axios@0.27.2 or npm install axios
-What is Axios? axios is used to make a network request.
+    What is Axios? axios is used to make a network request.
+7.on command line type  npx tsc --init"  to add a ts config file
 
 API
-6. Fake JSON API being used:
+8. Fake JSON API being used:
   https://jsonplaceholder.typicode.com/
   1. Go down to the resources section and click on the /todos link
   2. We will make a network request to this URL with endpoint being todos -- >  [https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos/1)
   3. We added 1 at the end to get the first one. (FYI)
   4. 
 
-     
+  RUN FILE TO VIEW API:
+
+  node index.js
 
 
 
