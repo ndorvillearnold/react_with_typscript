@@ -61,9 +61,10 @@ I also learned
 2. Basic syntax and features
 3. Functioning typing and annotations
 4. Design patterns
-5. Arrays
+5. Arrays in TypeScript
 6. Modules systems
-7. classes and refressioer on oop
+7. Classes and refressioer on oop
+
 
 <br>
 Obstacles I faced
